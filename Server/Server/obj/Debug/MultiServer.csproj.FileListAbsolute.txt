@@ -1,0 +1,7 @@
+C:\Users\vitor\Desktop\NetworkingSamples-master\MultiServer\bin\Debug\Multi Server.exe.config
+C:\Users\vitor\Desktop\NetworkingSamples-master\MultiServer\bin\Debug\Multi Server.exe
+C:\Users\vitor\Desktop\NetworkingSamples-master\MultiServer\bin\Debug\Multi Server.pdb
+C:\Users\vitor\Desktop\NetworkingSamples-master\MultiServer\obj\Debug\MultiServer.csprojAssemblyReference.cache
+C:\Users\vitor\Desktop\NetworkingSamples-master\MultiServer\obj\Debug\MultiServer.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\NetworkingSamples-master\MultiServer\obj\Debug\Multi Server.exe
+C:\Users\vitor\Desktop\NetworkingSamples-master\MultiServer\obj\Debug\Multi Server.pdb

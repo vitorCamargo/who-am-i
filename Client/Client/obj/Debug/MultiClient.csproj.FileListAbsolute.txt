@@ -1,0 +1,6 @@
+C:\Users\vitor\Desktop\NetworkingSamples-master - Copia\MultiClient\bin\Debug\Multi Client.exe.config
+C:\Users\vitor\Desktop\NetworkingSamples-master - Copia\MultiClient\bin\Debug\Multi Client.exe
+C:\Users\vitor\Desktop\NetworkingSamples-master - Copia\MultiClient\bin\Debug\Multi Client.pdb
+C:\Users\vitor\Desktop\NetworkingSamples-master - Copia\MultiClient\obj\Debug\MultiClient.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\NetworkingSamples-master - Copia\MultiClient\obj\Debug\Multi Client.exe
+C:\Users\vitor\Desktop\NetworkingSamples-master - Copia\MultiClient\obj\Debug\Multi Client.pdb
